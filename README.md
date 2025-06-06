@@ -1,5 +1,3 @@
-# Artificial-Intelligence-in-Marketing
-
 # Service Quality Analysis for Holiday Inn Hotels (Ontario)
 
 ## Overview
